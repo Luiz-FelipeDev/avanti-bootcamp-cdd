@@ -1,0 +1,11 @@
+variavel,descricao,tipo,subtipo
+survived,"sobreviveu : 0 = não, 1 = sim",quantitativa,discreta
+pclass,"Classe do passageiro : 1 = primeiro, 2 = segunda, 3 = terceira",quantitativa,discreta
+sex,Sexo do passageiro,qualitativa,nominal
+age,Idade do passageiro,quantitativa,discreta
+sibsp,Indica se tinha esposa(o) ou irmãos a bordo com o passageiro,quantitativa,discreta
+parch,Número de pais/filhos a bordo com o passageiro,quantitativa,discreta
+fare,Preço da passagem,quantitativa,contínua
+embarked,Local do embarque do passageiro,qualitativa,ordinal
+alive,Indica se o passageiro morreu ou viveu,qualitativa,nomimal
+alone,Indica se o passageiro estava sozinho na viajem,qualitativa,nomimal
